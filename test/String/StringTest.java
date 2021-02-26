@@ -148,6 +148,9 @@ public class StringTest {
         str1.toLowerCase();
         str1.toLowerCase();
         str1.toLowerCase();
+        str1.toLowerCase();
+        str1.toLowerCase();
+        str1.toLowerCase();
 
         StringBuilder sb2 = new StringBuilder("123");
     }
